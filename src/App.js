@@ -2,7 +2,8 @@ import React from "react";
 import "./style.css";
 
 export default function App() {
-  const name = "Sinethemba";
+  const fname = "Sinethemba";
+  const lname = "Ntantiso"
   return (
     <div>
       <h1>Hello {name}!</h1>
