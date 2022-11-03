@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import { Container, Nav , Navbar} from "react-bootstrap";
+
 
 export default function App() {
   const fname = "Sinethemba";
